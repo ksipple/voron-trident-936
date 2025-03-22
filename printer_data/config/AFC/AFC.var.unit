@@ -18,7 +18,7 @@
             "color": "#08090D",
             "weight": 28.18841650287459,
             "extruder_temp": 210,
-            "runout_lane": "NONE",
+            "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": null
