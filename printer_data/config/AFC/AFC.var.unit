@@ -100,11 +100,11 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
-            "enabled": 0
+            "enabled": false
         }
     }
 }
