@@ -12,16 +12,16 @@
             "load": true,
             "prep": true,
             "tool_loaded": true,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": "PLA",
             "spool_id": "43",
             "color": "#000000",
             "weight": 357.67489928471775,
             "extruder_temp": 215,
             "runout_lane": "NONE",
-            "filament_status": "In Tool",
-            "filament_status_led": "#0000ff",
-            "status": "Tool Unloading"
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded"
         },
         "lane2": {
             "name": "lane2",
@@ -100,7 +100,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane1"
+                "lane_loaded": ""
             }
         },
         "bypass": {
