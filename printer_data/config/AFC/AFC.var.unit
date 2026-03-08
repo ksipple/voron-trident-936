@@ -20,12 +20,12 @@
             "remember_spool": false,
             "spool_id": 28,
             "color": "#2a3cff",
-            "weight": 353.2153774092219,
+            "weight": 353.1479007464858,
             "extruder_temp": 210,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 175.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -50,12 +50,12 @@
             "remember_spool": false,
             "spool_id": 33,
             "color": "#6b6b6b",
-            "weight": 765.467153287247,
+            "weight": 765.4306635774462,
             "extruder_temp": 215,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 115.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -80,12 +80,12 @@
             "remember_spool": false,
             "spool_id": 60,
             "color": "#972100",
-            "weight": 730.664809861661,
+            "weight": 730.192345202516,
             "extruder_temp": 210,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 120.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -110,12 +110,12 @@
             "remember_spool": false,
             "spool_id": 31,
             "color": "#09081b",
-            "weight": 606.5671524524854,
+            "weight": 606.5186006042891,
             "extruder_temp": 210,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 180.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -128,7 +128,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
