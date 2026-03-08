@@ -25,7 +25,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "Calibrating",
             "dist_hub": 175.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -132,7 +132,7 @@
             }
         },
         "bypass": {
-            "enabled": 1
+            "enabled": 0
         }
     }
 }
