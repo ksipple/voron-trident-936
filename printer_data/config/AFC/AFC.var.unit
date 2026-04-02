@@ -22,13 +22,14 @@
             "color": "#53bdc2",
             "weight": 200.54403820515438,
             "extruder_temp": 215,
+            "bed_temp": 60,
             "runout_lane": null,
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
             "status": "Tooled",
             "dist_hub": 171.6,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_prep,lane1_load"
         },
         "lane2": {
             "name": "lane2",
@@ -52,13 +53,14 @@
             "color": "#15596e",
             "weight": 503.0,
             "extruder_temp": 215,
+            "bed_temp": 60,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 113.36,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_prep,lane2_load"
         },
         "lane3": {
             "name": "lane3",
@@ -82,13 +84,14 @@
             "color": "#972100",
             "weight": 407.4607791769504,
             "extruder_temp": 210,
+            "bed_temp": 60,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 116.55,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane3_prep,lane3_load"
         },
         "lane4": {
             "name": "lane4",
@@ -112,13 +115,14 @@
             "color": "#584137",
             "weight": 621.4103539945663,
             "extruder_temp": 210,
+            "bed_temp": 60,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 177.69,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane4_prep,lane4_load"
         }
     },
     "system": {
