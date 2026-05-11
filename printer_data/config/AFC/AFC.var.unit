@@ -20,7 +20,7 @@
             "remember_spool": false,
             "spool_id": 50,
             "color": "#000000",
-            "weight": 306.63418079473956,
+            "weight": 303.78850960703426,
             "extruder_temp": 210,
             "bed_temp": 60,
             "runout_lane": null,
@@ -104,7 +104,7 @@
             "map": "T2",
             "load": true,
             "prep": true,
-            "tool_loaded": false,
+            "tool_loaded": true,
             "loaded_to_hub": true,
             "material": "PLA",
             "density": 1.23,
@@ -113,26 +113,26 @@
             "remember_spool": false,
             "spool_id": 58,
             "color": "#001c8c",
-            "weight": 994.3396420341999,
+            "weight": 983.8563878541348,
             "extruder_temp": 210,
             "bed_temp": 60,
             "runout_lane": null,
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "filament_status": "In Tool",
+            "filament_status_led": "#0000ff",
+            "status": "Tooled",
             "dist_hub": 177.69,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane4_prep,lane4_load"
         }
     },
     "system": {
-        "current_load": null,
+        "current_load": "lane4",
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": null
+                "lane_loaded": "lane4"
             }
         },
         "bypass": {
