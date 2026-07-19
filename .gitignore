@@ -1,12 +1,8 @@
 .env
-secrets.conf*.bak
+secrets.conf
 *.swp
-*.bkp
-*.csv
 *.tmp
-*.zip
 printer-[0-9]*_[0-9]*.cfg
-mooncord.cfg
 *.bak
 *.bkp
 *.csv
