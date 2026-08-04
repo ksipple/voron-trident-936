@@ -20,7 +20,7 @@
             "need_purge": false,
             "remember_spool": false,
             "spool_id": 70,
-            "color": "#f96226",
+            "color": "#F96226",
             "weight": 1000.0,
             "extruder_temp": 260,
             "bed_temp": 110,
