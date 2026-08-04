@@ -215,11 +215,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 4,
                   "colspan": 1,
                   "enabled": false,
                   "id": "firmware_restart",
-                  "row": -1,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
@@ -359,11 +359,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 3,
                   "colspan": 1,
                   "enabled": true,
                   "id": "macros",
-                  "row": 1,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
