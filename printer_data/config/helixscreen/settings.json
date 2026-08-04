@@ -179,7 +179,7 @@
                   "colspan": 1,
                   "enabled": true,
                   "id": "temperature",
-                  "row": 2,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
@@ -265,7 +265,7 @@
                 {
                   "col": 3,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "nozzle_temps",
                   "row": 0,
                   "rowspan": 1
@@ -283,7 +283,7 @@
                   "colspan": 1,
                   "enabled": true,
                   "id": "temp_stack",
-                  "row": 1,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
