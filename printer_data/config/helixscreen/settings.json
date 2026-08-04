@@ -169,7 +169,7 @@
                 {
                   "col": 2,
                   "colspan": 4,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "tips",
                   "row": 0,
                   "rowspan": 2
@@ -263,11 +263,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 3,
                   "colspan": 1,
                   "enabled": true,
                   "id": "nozzle_temps",
-                  "row": 2,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
