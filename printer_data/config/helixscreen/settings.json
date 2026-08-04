@@ -303,11 +303,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 3,
                   "colspan": 3,
                   "enabled": false,
                   "id": "preheat",
-                  "row": -1,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
