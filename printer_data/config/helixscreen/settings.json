@@ -327,11 +327,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 3,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "filament",
-                  "row": -1,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
