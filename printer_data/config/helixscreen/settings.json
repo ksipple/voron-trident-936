@@ -271,11 +271,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 5,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "chamber_temperature",
-                  "row": -1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
