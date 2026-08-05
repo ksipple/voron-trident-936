@@ -70,13 +70,13 @@
           "assigned": true,
           "bed_temp": 110,
           "brand": "West3D",
-          "color_rgb": 16343590,
+          "color_rgb": 0,
           "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 863.1141357421875,
-          "spool_name": "West3D ASA - Ambrosia ASA KB3D Orange",
-          "spoolman_id": 70,
+          "remaining_weight_g": 1000.0,
+          "spool_name": "West3D ASA - Ambrosia ASA Black",
+          "spoolman_id": 71,
           "total_weight_g": 1000.0
         }
       },
