@@ -368,11 +368,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 2,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "motion",
-                  "row": -1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
