@@ -74,7 +74,7 @@
           "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 1000.0,
+          "remaining_weight_g": 999.6651611328125,
           "spool_name": "West3D ASA - Ambrosia ASA Black",
           "spoolman_id": 71,
           "total_weight_g": 1000.0
