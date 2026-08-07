@@ -304,7 +304,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 2,
+                  "col": 3,
                   "colspan": 3,
                   "enabled": true,
                   "id": "preheat",
