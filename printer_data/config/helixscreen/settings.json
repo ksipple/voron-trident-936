@@ -65,21 +65,7 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
-      "filament": {
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 110,
-          "brand": "Polymaker",
-          "color_rgb": 8948621,
-          "material": "ASA",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "remaining_weight_g": 169.48646545410156,
-          "spool_name": "Polymaker ASA - PolyLite ASA Grey",
-          "spoolman_id": 7,
-          "total_weight_g": 1000.0
-        }
-      },
+      "filament": {},
       "filament_sensors": {},
       "hardware": {
         "expected": [
