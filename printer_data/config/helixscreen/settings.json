@@ -65,21 +65,7 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
-      "filament": {
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 90,
-          "brand": "Printed Solid",
-          "color_rgb": 15526890,
-          "material": "PETG",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "remaining_weight_g": 980.3134765625,
-          "spool_name": "Printed Solid PETG - Jessie PETG White",
-          "spoolman_id": 12,
-          "total_weight_g": 1000.0
-        }
-      },
+      "filament": {},
       "filament_sensors": {},
       "hardware": {
         "expected": [
