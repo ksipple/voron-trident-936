@@ -502,7 +502,8 @@
                   "colspan": 1,
                   "config": {
                     "icon": "bed",
-                    "macro": "PARKFRONT"
+                    "macro": "PARKFRONT",
+                    "skip_param_prompt": true
                   },
                   "enabled": true,
                   "id": "favorite_macro:3",
