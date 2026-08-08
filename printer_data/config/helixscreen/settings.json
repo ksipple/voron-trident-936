@@ -11,6 +11,7 @@
     "gpu_3d_blocked": false,
     "gpu_blur_blocked": false,
     "sleep_sec": 1800,
+    "sleep_while_printing": false,
     "timezone": "America/New_York"
   },
   "gcode_viewer": {
