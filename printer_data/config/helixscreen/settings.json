@@ -47,7 +47,7 @@
   "printers": {
     "default": {
       "appearance": {
-        "toolhead_style": 4
+        "toolhead_style": 5
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
