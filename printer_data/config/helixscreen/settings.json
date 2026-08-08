@@ -474,6 +474,9 @@
                 {
                   "col": 3,
                   "colspan": 1,
+                  "config": {
+                    "macro": "AFC_PRIME"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:1",
                   "row": 1,
