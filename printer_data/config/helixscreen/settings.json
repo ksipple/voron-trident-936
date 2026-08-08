@@ -483,7 +483,8 @@
         "hotend": "extruder"
       },
       "type": "Voron Trident",
-      "wizard_completed": true
+      "wizard_completed": true,
+      "z_movement_style": 1
     },
     "show_printer_switcher": false
   },
