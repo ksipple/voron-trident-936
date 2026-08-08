@@ -476,7 +476,8 @@
                   "colspan": 1,
                   "config": {
                     "icon": "water",
-                    "macro": "AFC_PRIME"
+                    "macro": "AFC_PRIME",
+                    "skip_param_prompt": true
                   },
                   "enabled": true,
                   "id": "favorite_macro:1",
