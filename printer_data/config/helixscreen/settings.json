@@ -501,6 +501,7 @@
                   "col": 5,
                   "colspan": 1,
                   "config": {
+                    "icon": "bed",
                     "macro": "PARKFRONT"
                   },
                   "enabled": true,
