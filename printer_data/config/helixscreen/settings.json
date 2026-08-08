@@ -34,6 +34,7 @@
   },
   "label_printer": {
     "address": "192.168.10.114",
+    "label_size": 4,
     "port": 9100,
     "protocol": "raw"
   },
