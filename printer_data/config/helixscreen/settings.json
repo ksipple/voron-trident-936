@@ -477,6 +477,11 @@
     },
     "show_printer_switcher": false
   },
+  "scanner": {
+    "bt_address": "",
+    "usb_device_name": "CodeXML Modem",
+    "usb_vendor_product": "11fa:0205"
+  },
   "telemetry_enabled": true,
   "theme": {
     "preset": 0
