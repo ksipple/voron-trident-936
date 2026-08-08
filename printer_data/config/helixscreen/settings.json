@@ -493,6 +493,9 @@
     "usb_device_name": "CodeXML Modem",
     "usb_vendor_product": "11fa:0205"
   },
+  "standard_macros": {
+    "quick_button_1": "load_filament"
+  },
   "telemetry_enabled": true,
   "theme": {
     "preset": 0
