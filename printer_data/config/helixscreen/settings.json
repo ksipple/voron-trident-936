@@ -34,7 +34,7 @@
   },
   "label_printer": {
     "address": "192.168.10.114",
-    "port": 9102,
+    "port": 9100,
     "protocol": "raw"
   },
   "language": "en",
