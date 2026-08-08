@@ -32,6 +32,11 @@
     "scroll_throw": 25,
     "touch_device": ""
   },
+  "label_printer": {
+    "address": "192.168.10.114",
+    "port": 9102,
+    "protocol": "raw"
+  },
   "language": "en",
   "log_path": "/tmp/helixscreen.log",
   "motion": {
