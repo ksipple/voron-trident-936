@@ -487,6 +487,10 @@
                 {
                   "col": 4,
                   "colspan": 1,
+                  "config": {
+                    "icon": "arrow_down",
+                    "macro": "LOAD_FILAMENT"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:2",
                   "row": 1,
