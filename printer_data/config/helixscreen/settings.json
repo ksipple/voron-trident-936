@@ -489,7 +489,8 @@
                   "colspan": 1,
                   "config": {
                     "icon": "arrow_down",
-                    "macro": "LOAD_FILAMENT"
+                    "macro": "LOAD_FILAMENT",
+                    "skip_param_prompt": true
                   },
                   "enabled": true,
                   "id": "favorite_macro:2",
