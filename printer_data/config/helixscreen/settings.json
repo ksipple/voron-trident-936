@@ -500,6 +500,9 @@
                 {
                   "col": 5,
                   "colspan": 1,
+                  "config": {
+                    "macro": "PARKFRONT"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:3",
                   "row": 1,
