@@ -80,11 +80,13 @@
           "assigned": true,
           "bed_temp": 110,
           "brand": "West3D",
+          "catalog_id": "",
           "color_rgb": 0,
           "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 707.1776123046875,
+          "product_name": "",
+          "remaining_weight_g": 707.1752319335938,
           "spool_name": "West3D ASA - Ambrosia ASA Black",
           "spoolman_id": 71,
           "total_weight_g": 1000.0
@@ -132,7 +134,7 @@
             "temperature_sensor nitehawk_mcu",
             "temperature_sensor chamber_temp"
           ],
-          "timestamp": "2026-08-08T17:15:37Z"
+          "timestamp": "2026-08-10T13:03:26Z"
         },
         "optional": []
       },
