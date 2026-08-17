@@ -9,6 +9,7 @@
             "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
+            "current_map": "T0",
             "load": false,
             "prep": false,
             "tool_loaded": false,
@@ -29,8 +30,7 @@
             "filament_status_led": "#ff0000",
             "status": "None",
             "dist_hub": 171.6,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_prep,lane1_load"
+            "td1_data": {}
         },
         "lane2": {
             "name": "lane2",
@@ -41,6 +41,7 @@
             "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
+            "current_map": "T1",
             "load": false,
             "prep": false,
             "tool_loaded": false,
@@ -61,8 +62,7 @@
             "filament_status_led": "#ff0000",
             "status": "None",
             "dist_hub": 113.36,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_prep,lane2_load"
+            "td1_data": {}
         },
         "lane3": {
             "name": "lane3",
@@ -73,6 +73,7 @@
             "buffer_status": "Advancing",
             "lane": 3,
             "map": "T2",
+            "current_map": "T2",
             "load": false,
             "prep": false,
             "tool_loaded": false,
@@ -93,8 +94,7 @@
             "filament_status_led": "#ff0000",
             "status": "None",
             "dist_hub": 116.55,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane3_prep,lane3_load"
+            "td1_data": {}
         },
         "lane4": {
             "name": "lane4",
@@ -105,6 +105,7 @@
             "buffer_status": "Advancing",
             "lane": 4,
             "map": "T3",
+            "current_map": "T3",
             "load": false,
             "prep": false,
             "tool_loaded": false,
@@ -125,8 +126,7 @@
             "filament_status_led": "#ff0000",
             "status": "None",
             "dist_hub": 177.69,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane4_prep,lane4_load"
+            "td1_data": {}
         }
     },
     "system": {
