@@ -75,7 +75,23 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
-      "filament": {},
+      "filament": {
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 60,
+          "brand": "eSUN",
+          "catalog_id": "",
+          "color_rgb": 16777215,
+          "material": "PLA",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "product_name": "",
+          "remaining_weight_g": 812.3283081054688,
+          "spool_name": "eSUN PLA White",
+          "spoolman_id": 66,
+          "total_weight_g": 1000.0
+        }
+      },
       "filament_sensors": {},
       "hardware": {
         "expected": [
@@ -118,7 +134,7 @@
             "temperature_sensor nitehawk_mcu",
             "temperature_sensor chamber_temp"
           ],
-          "timestamp": "2026-08-17T01:30:40Z"
+          "timestamp": "2026-08-26T23:01:49Z"
         },
         "optional": []
       },
