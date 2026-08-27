@@ -134,7 +134,7 @@
             "temperature_sensor nitehawk_mcu",
             "temperature_sensor chamber_temp"
           ],
-          "timestamp": "2026-08-26T23:01:49Z"
+          "timestamp": "2026-08-27T19:39:15Z"
         },
         "optional": []
       },
@@ -143,6 +143,11 @@
         "hotend": "extruder"
       },
       "leds": {
+        "auto_paired_bases": [
+          "LIGHTS",
+          "SET_LOGO_LEDS",
+          "SET_NOZZLE_LEDS"
+        ],
         "auto_state": {},
         "color_presets": [
           "#FFFFFF",
@@ -158,7 +163,32 @@
         "last_color": "#FFFFFF",
         "last_white": 0.0,
         "led_on_at_start": false,
-        "macro_devices": [],
+        "macro_devices": [
+          {
+            "name": "Lights",
+            "off_macro": "LIGHTS_OFF",
+            "on_macro": "LIGHTS_ON",
+            "presets": [],
+            "toggle_macro": "",
+            "type": "on_off"
+          },
+          {
+            "name": "Set Logo Leds",
+            "off_macro": "SET_LOGO_LEDS_OFF",
+            "on_macro": "SET_LOGO_LEDS_ON",
+            "presets": [],
+            "toggle_macro": "",
+            "type": "on_off"
+          },
+          {
+            "name": "Set Nozzle Leds",
+            "off_macro": "SET_NOZZLE_LEDS_OFF",
+            "on_macro": "SET_NOZZLE_LEDS_ON",
+            "presets": [],
+            "toggle_macro": "",
+            "type": "on_off"
+          }
+        ],
         "selected": [],
         "selected_strips": [
           "output_pin case_light"
