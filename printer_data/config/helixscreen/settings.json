@@ -1,6 +1,6 @@
 {
   "active_printer_id": "default",
-  "config_version": 22,
+  "config_version": 23,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -479,7 +479,7 @@
                   "config": {
                     "icon": "water",
                     "macro": "AFC_PRIME",
-                    "skip_param_prompt": true
+                    "require_confirmation": false
                   },
                   "enabled": true,
                   "id": "favorite_macro:1",
@@ -492,7 +492,7 @@
                   "config": {
                     "icon": "arrow_down",
                     "macro": "LOAD_FILAMENT",
-                    "skip_param_prompt": true
+                    "require_confirmation": false
                   },
                   "enabled": true,
                   "id": "favorite_macro:2",
@@ -505,7 +505,7 @@
                   "config": {
                     "icon": "bed",
                     "macro": "PARKFRONT",
-                    "skip_param_prompt": true
+                    "require_confirmation": false
                   },
                   "enabled": true,
                   "id": "favorite_macro:3",
