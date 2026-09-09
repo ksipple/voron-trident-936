@@ -575,8 +575,8 @@
   },
   "scanner": {
     "bt_address": "",
-    "usb_device_name": "CodeXML Modem",
-    "usb_vendor_product": "11fa:0205"
+    "usb_device_name": "",
+    "usb_vendor_product": ""
   },
   "standard_macros": {
     "bed_level": "",
