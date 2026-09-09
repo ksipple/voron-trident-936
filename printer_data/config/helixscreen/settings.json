@@ -44,6 +44,20 @@
   "motion": {
     "jog_mode": 1
   },
+  "print_start_history": {
+    "entries": [
+      {
+        "phases": {
+          "8": 136,
+          "9": 222
+        },
+        "temp_bucket": 1,
+        "timestamp": 1788984828,
+        "total": 701,
+        "window": 1
+      }
+    ]
+  },
   "printers": {
     "default": {
       "appearance": {
@@ -583,6 +597,13 @@
   "telemetry_enabled": true,
   "theme": {
     "preset": 0
+  },
+  "thermal": {
+    "rates": {
+      "heater_bed": {
+        "heat_rate": 7.93900728225708
+      }
+    }
   },
   "tour": {
     "completed": true,
