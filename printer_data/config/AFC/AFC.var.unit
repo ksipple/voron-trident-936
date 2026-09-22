@@ -28,7 +28,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 171.6,
             "td1_data": {}
         },
@@ -54,7 +54,7 @@
             "remember_spool": false,
             "spool_id": 58,
             "color": "#001C8C",
-            "weight": 395.2553697748962,
+            "weight": 394.12470034199544,
             "extruder_temp": 210,
             "bed_temp": 60,
             "runout_lane": null,
