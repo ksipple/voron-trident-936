@@ -58,7 +58,7 @@
             "color": "#101820",
             "filament_name": "Overture ASA Black",
             "spool_vendor": "Overture",
-            "weight": 2.36157288756022,
+            "weight": 0.35414587195117525,
             "extruder_temp": 260,
             "bed_temp": 110,
             "runout_lane": null,
